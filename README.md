@@ -7,122 +7,98 @@
 
 ### Preamp
 <div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:36.5%%;">
-- Reference Wet <br />
-<audio controls="controls">
-    <source src="audio/Preamp/Preamp_32_AET_CRNN_23_input.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Preamp/Preamp_24_AET_CRNN_23_input.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Preamp/Preamp_44_AET_CRNN_23_input.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Preamp/Preamp_57_AET_CRNN_23_input.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column2" style="float:left; margin:0;width:36.5%%;">
-- Wave-U-Net Wet <br />
-<audio controls="controls">
-    <source src="audio/Preamp/Preamp_32_AET_DNN_Local_Dense_SAAF3_output.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Preamp/Preamp_24_AET_DNN_Local_Dense_SAAF3_output.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Preamp/Preamp_44_AET_DNN_Local_Dense_SAAF3_output.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Preamp/Preamp_57_AET_DNN_Local_Dense_SAAF3_output.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column3" style="float:left; margin:0;width:27%">
-- Random Forest Wet <br />
-<audio controls="controls">
-    <source src="audio/Preamp/Preamp_32_Wavenet2_output.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Preamp/Preamp_24_Wavenet2_output.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Preamp/Preamp_44_Wavenet2_output.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Preamp/Preamp_57_Wavenet2_output.mp3" type="audio/mp3" />
-</audio>
-</div>
-</div>
-
-<div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
-- Reference Dry <br />
+- input <br />
 <audio controls="controls">
-    <source src="audio/Preamp/Preamp_32_AET_CRNN_23_output.mp3" type="audio/mp3" />
+    <source src="audio/Chorus/1-Chorus_input.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-    <source src="audio/Preamp/Preamp_24_AET_CRNN_23_output.mp3" type="audio/mp3" />
+    <source src="audio/Chorus/2-Chorus_input.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-    <source src="audio/Preamp/Preamp_44_AET_CRNN_23_output.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Preamp/Preamp_57_AET_CRNN_23_output.mp3" type="audio/mp3" />
+    <source src="audio/Chorus/3-Chorus_input.mp3" type="audio/mp3" />
 </audio>
 </div>
 
 <div id="column2" style="float:left; margin:0;width:36.5%;">
-- Wave-U-Net Dry <br />
+- target <br />
 <audio controls="controls">
-    <source src="audio/Preamp/Preamp_32_AET_Wavenet_1_output.mp3" type="audio/mp3" />
+    <source src="audio/Chorus/1-Chorus_target.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-    <source src="audio/Preamp/Preamp_24_AET_Wavenet_1_output.mp3" type="audio/mp3" />
+    <source src="audio/Chorus/2-Chorus_target.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-    <source src="audio/Preamp/Preamp_44_AET_Wavenet_1_output.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Preamp/Preamp_57_AET_Wavenet_1_output.mp3" type="audio/mp3" />
+    <source src="audio/Chorus/3-Chorus_target.mp3" type="audio/mp3" />
 </audio>
 </div>
 
-<div id="column3" style="float:left; margin:0;width:27%;">
-- Random Forest Dry <br />
+<div id="column3" style="float:left; margin:0;width:27%">
+- output <br />
 <audio controls="controls">
-    <source src="audio/Preamp/Preamp_32_AET_CRNN_23_target.mp3" type="audio/mp3" />
+    <source src="audio/Chorus/1-Chorus_output.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-    <source src="audio/Preamp/Preamp_24_AET_CRNN_23_target.mp3" type="audio/mp3" />
+    <source src="audio/Chorus/2-Chorus_output.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-    <source src="audio/Preamp/Preamp_44_AET_CRNN_23_target.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Preamp/Preamp_57_AET_CRNN_23_target.mp3" type="audio/mp3" />
+    <source src="audio/Chorus/3-Chorus_output.mp3" type="audio/mp3" />
 </audio>
 </div>
 </div>
-
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
-- Anchor <br />
+- input <br />
 <audio controls="controls">
-    <source src="audio/Preamp/Preamp_32_AET_CRNN_23_target.mp3" type="audio/mp3" />
+    <source src="audio/Chorus/1-Chorus_input.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-    <source src="audio/Preamp/Preamp_24_AET_CRNN_23_target.mp3" type="audio/mp3" />
+    <source src="audio/Chorus/2-Chorus_input.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-    <source src="audio/Preamp/Preamp_44_AET_CRNN_23_target.mp3" type="audio/mp3" />
+    <source src="audio/Chorus/3-Chorus_input.mp3" type="audio/mp3" />
+</audio>
+</div>
+
+<div id="column2" style="float:left; margin:0;width:36.5%;">
+- target <br />
+<audio controls="controls">
+    <source src="audio/Chorus/1-Chorus_target.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-    <source src="audio/Preamp/Preamp_57_AET_CRNN_23_target.mp3" type="audio/mp3" />
+    <source src="audio/Chorus/2-Chorus_target.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/Chorus/3-Chorus_target.mp3" type="audio/mp3" />
+</audio>
+</div>
+
+<div id="column3" style="float:left; margin:0;width:27%">
+- output <br />
+<audio controls="controls">
+    <source src="audio/Chorus/1-Chorus_output.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/Chorus/2-Chorus_output.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/Chorus/3-Chorus_output.mp3" type="audio/mp3" />
+</audio>
+</div>
+</div>
+<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="column1" style="float:left; margin:0; width:36.5%;">
+- input <br />
+<audio controls="controls">
+    <source src="audio/Chorus/1-Chorus_input.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/Chorus/2-Chorus_input.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/Chorus/3-Chorus_input.mp3" type="audio/mp3" />
 </audio>
 </div>
 
 </div>
-
 &nbsp;
