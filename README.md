@@ -6,7 +6,7 @@
 
 
 ### Preamp
-<div id="contentBox" style="margin:0px auto; width:350%">
+<div id="contentBox" style="margin:0px auto; width:375%">
 <div id="column1" style="float:left; margin:0; width:15.75%;">
 - Reference Wet <br />
 <audio controls="controls">
