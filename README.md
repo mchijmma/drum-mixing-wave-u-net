@@ -6,8 +6,8 @@
 
 
 ### Preamp
-<div id="contentBox" style="margin:0px auto; width:375%">
-<div id="column1" style="float:left; margin:0; width:15.75%;">
+<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="column1" style="float:left; margin:0; width:36.5%%;">
 - Reference Wet <br />
 <audio controls="controls">
     <source src="audio/Preamp/Preamp_32_AET_CRNN_23_input.mp3" type="audio/mp3" />
@@ -23,7 +23,7 @@
 </audio>
 </div>
 
-<div id="column2" style="float:left; margin:0;width:15.75%;">
+<div id="column2" style="float:left; margin:0;width:36.5%%;">
 - Wave-U-Net Wet <br />
 <audio controls="controls">
     <source src="audio/Preamp/Preamp_32_AET_DNN_Local_Dense_SAAF3_output.mp3" type="audio/mp3" />
@@ -39,7 +39,7 @@
 </audio>
 </div>
 
-<div id="column3" style="float:left; margin:0;width:15.75%">
+<div id="column3" style="float:left; margin:0;width:27%">
 - Random Forest Wet <br />
 <audio controls="controls">
     <source src="audio/Preamp/Preamp_32_Wavenet2_output.mp3" type="audio/mp3" />
@@ -54,8 +54,10 @@
     <source src="audio/Preamp/Preamp_57_Wavenet2_output.mp3" type="audio/mp3" />
 </audio>
 </div>
+</div>
 
-<div id="column4" style="float:left; margin:0;width:15.75%">
+<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Dry <br />
 <audio controls="controls">
     <source src="audio/Preamp/Preamp_32_AET_CRNN_23_output.mp3" type="audio/mp3" />
@@ -71,7 +73,7 @@
 </audio>
 </div>
 
-<div id="column5" style="float:left; margin:0;width:15.75%;">
+<div id="column2" style="float:left; margin:0;width:36.5%;">
 - Wave-U-Net Dry <br />
 <audio controls="controls">
     <source src="audio/Preamp/Preamp_32_AET_Wavenet_1_output.mp3" type="audio/mp3" />
@@ -87,7 +89,7 @@
 </audio>
 </div>
 
-<div id="column6" style="float:left; margin:0;width:15.75%;">
+<div id="column3" style="float:left; margin:0;width:27%;">
 - Random Forest Dry <br />
 <audio controls="controls">
     <source src="audio/Preamp/Preamp_32_AET_CRNN_23_target.mp3" type="audio/mp3" />
@@ -102,8 +104,10 @@
     <source src="audio/Preamp/Preamp_57_AET_CRNN_23_target.mp3" type="audio/mp3" />
 </audio>
 </div>
+</div>
 
-<div id="column7" style="float:left; margin:0;width:15.75%;">
+<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="column1" style="float:left; margin:0; width:36.5%;">
 - Anchor <br />
 <audio controls="controls">
     <source src="audio/Preamp/Preamp_32_AET_CRNN_23_target.mp3" type="audio/mp3" />
