@@ -47,7 +47,7 @@
 </div>
 </div>
 <div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:36.5%;">
+<div id="column1" style="float:left; margin:0; width:150%;">
 - Anchor <br />
 <audio controls="controls">
     <source src="audio/050_phrase_afro_simple_slow_sticks_oh.mp3" type="audio/mp3" />
