@@ -5,100 +5,59 @@
 [View the source code.](https://github.com/f90/Mix-Wave-U-Net/)
 
 
-### Preamp
+### Phrase - afro: simple slow sticks.
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
-- input <br />
+- Reference Wet <br />
 <audio controls="controls">
-    <source src="audio/Chorus/1-Chorus_input.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Chorus/2-Chorus_input.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Chorus/3-Chorus_input.mp3" type="audio/mp3" />
+    <source src="audio/050_phrase_afro_simple_slow_sticks_target_wet.mp3" type="audio/mp3" />
 </audio>
 </div>
 
 <div id="column2" style="float:left; margin:0;width:36.5%;">
-- target <br />
+- Wave-U-Net Wet <br />
 <audio controls="controls">
-    <source src="audio/Chorus/1-Chorus_target.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Chorus/2-Chorus_target.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Chorus/3-Chorus_target.mp3" type="audio/mp3" />
+    <source src="audio/050_phrase_afro_simple_slow_sticks_wet.mp3" type="audio/mp3" />
 </audio>
 </div>
 
 <div id="column3" style="float:left; margin:0;width:27%">
-- output <br />
+- Random Forest Wet <br />
 <audio controls="controls">
-    <source src="audio/Chorus/1-Chorus_output.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Chorus/2-Chorus_output.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Chorus/3-Chorus_output.mp3" type="audio/mp3" />
+    <source src="audio/050_phrase_afro_simple_slow_sticks_rfwet.mp3" type="audio/mp3" />
 </audio>
 </div>
 </div>
+
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
-- input <br />
+- Reference Dry <br />
 <audio controls="controls">
-    <source src="audio/Chorus/1-Chorus_input.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Chorus/2-Chorus_input.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Chorus/3-Chorus_input.mp3" type="audio/mp3" />
+    <source src="audio/050_phrase_afro_simple_slow_sticks_target_dry.mp3" type="audio/mp3" />
 </audio>
 </div>
 
 <div id="column2" style="float:left; margin:0;width:36.5%;">
-- target <br />
+- Wave-U-Net Dry <br />
 <audio controls="controls">
-    <source src="audio/Chorus/1-Chorus_target.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Chorus/2-Chorus_target.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Chorus/3-Chorus_target.mp3" type="audio/mp3" />
+    <source src="audio/050_phrase_afro_simple_slow_sticks_dry.mp3" type="audio/mp3" />
 </audio>
 </div>
 
 <div id="column3" style="float:left; margin:0;width:27%">
-- output <br />
+- Random Forest Dry <br />
 <audio controls="controls">
-    <source src="audio/Chorus/1-Chorus_output.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Chorus/2-Chorus_output.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Chorus/3-Chorus_output.mp3" type="audio/mp3" />
+    <source src="audio/050_phrase_afro_simple_slow_sticks_rf.mp3" type="audio/mp3" />
 </audio>
 </div>
-</div>
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:36.5%;">
-- input <br />
-<audio controls="controls">
-    <source src="audio/Chorus/1-Chorus_input.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Chorus/2-Chorus_input.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/Chorus/3-Chorus_input.mp3" type="audio/mp3" />
-</audio>
 </div>
 
+<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="column1" style="float:left; margin:0; width:36.5%;">
+- Anchor <br />
+<audio controls="controls">
+    <source src="audio/050_phrase_afro_simple_slow_sticks_oh.mp3" type="audio/mp3" />
+</audio>
+</div>
 </div>
 &nbsp;
