@@ -5,7 +5,7 @@
 [View the source code.](https://github.com/f90/Mix-Wave-U-Net/)
 
 
-### Phrase - afro: simple slow sticks.
+### Phrase - afro: simple slow sticks
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Wet <br />
@@ -56,7 +56,7 @@
 </div>
 
 &nbsp;
-### Phrase - blues: simple slow brushes.
+### Phrase - blues: simple slow brushes
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Wet <br />
@@ -107,7 +107,7 @@
 </div>
 
 &nbsp;
-### Phrase - reggae: simple slow sticks.
+### Phrase - reggae: simple slow sticks
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Wet <br />
@@ -158,7 +158,7 @@
 </div>
 
 &nbsp;
-### Phrase - oriental: simple slow sticks.
+### Phrase - oriental: simple slow sticks
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Wet <br />
@@ -209,7 +209,7 @@
 </div>
 
 &nbsp;
-### Phrase - salsa: complex medium sticks.
+### Phrase - salsa: complex medium sticks
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Wet <br />
@@ -260,7 +260,7 @@
 </div>
 
 &nbsp;
-### Phrase - waltz: complex slow brushes.
+### Phrase - waltz: complex slow brushes
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Wet <br />
@@ -362,7 +362,7 @@
 </div>
 
 &nbsp;
-### Accompaniment - rock: sticks.
+### Accompaniment - rock: sticks
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Wet <br />
@@ -413,7 +413,7 @@
 </div>
 
 &nbsp;
-### Solo - toms: mallets.
+### Solo - toms: mallets
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Wet <br />
