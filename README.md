@@ -5,137 +5,120 @@
 [View the source code.](https://github.com/f90/Mix-Wave-U-Net/)
 
 
-### phrase - shuffle-blues_simple_slow_brushes
-<div id="contentBox" style="margin:0px auto; width:250%">
-<div id="column1" style="float:left; margin:0; width:22%;">
-- input <br />
+### Preamp
+<div id="contentBox" style="margin:0px auto; width:350%">
+<div id="column1" style="float:left; margin:0; width:15.75%;">
+- Reference Wet <br />
 <audio controls="controls">
-    <source src="audio/066_phrase_shuffle-blues_simple_slow_brushes_target_dry.mp3" type="audio/mp3" />
+    <source src="audio/Preamp/Preamp_32_AET_CRNN_23_input.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-    <source src="audio/066_phrase_shuffle-blues_simple_slow_brushes_target_dry.mp3" />
+    <source src="audio/Preamp/Preamp_24_AET_CRNN_23_input.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-    <source src="audio/066_phrase_shuffle-blues_simple_slow_brushes_target_dry.mp3" type="audio/mp3" />
+    <source src="audio/Preamp/Preamp_44_AET_CRNN_23_input.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-    <source src="audio/066_phrase_shuffle-blues_simple_slow_brushes_target_dry.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column2" style="float:left; margin:0;width:22%;">
-- target <br />
-<audio controls="controls">
-    <source src="audio/plate/Plate_30_AET_CRNN_23_target.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/plate/Plate_18_AET_CRNN_23_target.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/plate/Plate_27_AET_CRNN_23_target.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/plate/Plate_28_AET_CRNN_23_target.mp3" type="audio/mp3" />
+    <source src="audio/Preamp/Preamp_57_AET_CRNN_23_input.mp3" type="audio/mp3" />
 </audio>
 </div>
 
-<div id="column3" style="float:left; margin:0;width:22%">
-- model-1 <br />
+<div id="column2" style="float:left; margin:0;width:15.75%;">
+- Wave-U-Net Wet <br />
 <audio controls="controls">
-    <source src="audio/plate/Plate_30_AET_Convolution_21_output.mp3" type="audio/mp3" />
+    <source src="audio/Preamp/Preamp_32_AET_DNN_Local_Dense_SAAF3_output.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-    <source src="audio/plate/Plate_18_AET_Convolution_21_output.mp3" type="audio/mp3" />
+    <source src="audio/Preamp/Preamp_24_AET_DNN_Local_Dense_SAAF3_output.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-    <source src="audio/plate/Plate_27_AET_Convolution_21_output.mp3" type="audio/mp3" />
+    <source src="audio/Preamp/Preamp_44_AET_DNN_Local_Dense_SAAF3_output.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-    <source src="audio/plate/Plate_28_AET_Convolution_21_output.mp3" type="audio/mp3" />
+    <source src="audio/Preamp/Preamp_57_AET_DNN_Local_Dense_SAAF3_output.mp3" type="audio/mp3" />
 </audio>
 </div>
 
-<div id="column4" style="float:left; margin:0;width:10%">
-- model-2 <br />
+<div id="column3" style="float:left; margin:0;width:15.75%">
+- Random Forest Wet <br />
 <audio controls="controls">
-    <source src="audio/plate/Plate_30_AET_CRNN_23_output.mp3" type="audio/mp3" />
+    <source src="audio/Preamp/Preamp_32_Wavenet2_output.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-    <source src="audio/plate/Plate_18_AET_CRNN_23_output.mp3" type="audio/mp3" />
+    <source src="audio/Preamp/Preamp_24_Wavenet2_output.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-    <source src="audio/plate/Plate_27_AET_CRNN_23_output.mp3" type="audio/mp3" />
+    <source src="audio/Preamp/Preamp_44_Wavenet2_output.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-    <source src="audio/plate/Plate_28_AET_CRNN_23_output.mp3" type="audio/mp3" />
+    <source src="audio/Preamp/Preamp_57_Wavenet2_output.mp3" type="audio/mp3" />
 </audio>
 </div>
+
+<div id="column4" style="float:left; margin:0;width:15.75%">
+- Reference Dry <br />
+<audio controls="controls">
+    <source src="audio/Preamp/Preamp_32_AET_CRNN_23_output.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/Preamp/Preamp_24_AET_CRNN_23_output.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/Preamp/Preamp_44_AET_CRNN_23_output.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/Preamp/Preamp_57_AET_CRNN_23_output.mp3" type="audio/mp3" />
+</audio>
+</div>
+
+<div id="column5" style="float:left; margin:0;width:15.75%;">
+- Wave-U-Net Dry <br />
+<audio controls="controls">
+    <source src="audio/Preamp/Preamp_32_AET_Wavenet_1_output.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/Preamp/Preamp_24_AET_Wavenet_1_output.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/Preamp/Preamp_44_AET_Wavenet_1_output.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/Preamp/Preamp_57_AET_Wavenet_1_output.mp3" type="audio/mp3" />
+</audio>
+</div>
+
+<div id="column6" style="float:left; margin:0;width:15.75%;">
+- Random Forest Dry <br />
+<audio controls="controls">
+    <source src="audio/Preamp/Preamp_32_AET_CRNN_23_target.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/Preamp/Preamp_24_AET_CRNN_23_target.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/Preamp/Preamp_44_AET_CRNN_23_target.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/Preamp/Preamp_57_AET_CRNN_23_target.mp3" type="audio/mp3" />
+</audio>
+</div>
+
+<div id="column7" style="float:left; margin:0;width:15.75%;">
+- Anchor <br />
+<audio controls="controls">
+    <source src="audio/Preamp/Preamp_32_AET_CRNN_23_target.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/Preamp/Preamp_24_AET_CRNN_23_target.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/Preamp/Preamp_44_AET_CRNN_23_target.mp3" type="audio/mp3" />
+</audio>
+<audio controls="controls">
+    <source src="audio/Preamp/Preamp_57_AET_CRNN_23_target.mp3" type="audio/mp3" />
+</audio>
+</div>
+
 </div>
 
 &nbsp;
-### spring
-<div id="contentBox" style="margin:0px auto; width:250%">
-<div id="column1" style="float:left; margin:0; width:22%;">
-- input <br />
-<audio controls="controls">
-    <source src="audio/spring/Spring_56_AET_CRNN_23_input.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/spring/Spring_34_AET_CRNN_23_input.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/spring/Spring_16_AET_CRNN_23_input.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/spring/Spring_12_AET_CRNN_23_input.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column2" style="float:left; margin:0;width:22%;">
-- target <br />
-<audio controls="controls">
-    <source src="audio/spring/Spring_56_AET_CRNN_23_target.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/spring/Spring_34_AET_CRNN_23_target.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/spring/Spring_16_AET_CRNN_23_target.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/spring/Spring_12_AET_CRNN_23_target.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column3" style="float:left; margin:0;width:22%">
-- model-1 <br />
-<audio controls="controls">
-    <source src="audio/spring/Spring_56_AET_Convolution_21_output.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/spring/Spring_34_AET_Convolution_21_output.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/spring/Spring_16_AET_Convolution_21_output.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/spring/Spring_12_AET_Convolution_21_output.mp3" type="audio/mp3" />
-</audio>
-</div>
-
-<div id="column4" style="float:left; margin:0;width:10%">
-- model-2 <br />
-<audio controls="controls">
-    <source src="audio/spring/Spring_56_AET_CRNN_23_output.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/spring/Spring_34_AET_CRNN_23_output.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/spring/Spring_16_AET_CRNN_23_output.mp3" type="audio/mp3" />
-</audio>
-<audio controls="controls">
-    <source src="audio/spring/Spring_12_AET_CRNN_23_output.mp3" type="audio/mp3" />
-</audio>
-</div>
-</div>
