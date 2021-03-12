@@ -1,6 +1,6 @@
 [Audio examples](https://mchijmma.github.io/drum-mixing-wave-u-net/) for the [paper](https://www.aes.org/e-lib/browse.cfm?elib=21023):
 
-[Martínez Ramírez M. A.](http://m-marco.com), [Stoller, D.](https://dans.world/) and [Moffat, D.](http://davemoffat.com/wp/), “A Deep Learning Approach to Intelligent Drum Mixing with the Wave-U-Net” submitted to the Journal of the Audio Engineering Society, May 2020.
+[Martínez Ramírez M. A.](http://m-marco.com), [Stoller, D.](https://dans.world/) and [Moffat, D.](http://davemoffat.com/wp/), “A deep learning approach to intelligent drum mixing with the Wave-U-Net” Journal of the Audio Engineering Society, vol. 69, no. 3, pp. 142-151, March 2021
 
 [View the source code.](https://github.com/f90/Mix-Wave-U-Net/)
 
