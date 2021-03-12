@@ -1,4 +1,4 @@
-[Audio examples](https://mchijmma.github.io/drum-mixing-wave-u-net/) for the [paper](https://link.to.paper):
+[Audio examples](https://mchijmma.github.io/drum-mixing-wave-u-net/) for the [paper](https://www.aes.org/e-lib/browse.cfm?elib=21023):
 
 [Martínez Ramírez M. A.](http://m-marco.com), [Stoller, D.](https://dans.world/) and [Moffat, D.](http://davemoffat.com/wp/), “A Deep Learning Approach to Intelligent Drum Mixing with the Wave-U-Net” submitted to the Journal of the Audio Engineering Society, May 2020.
 
@@ -6,7 +6,7 @@
 
 
 ### Phrase - afro: simple slow sticks
-<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="contentBox" style="margin:0px auto; width:160%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Wet <br />
 <audio controls="controls">
@@ -26,7 +26,7 @@
 </audio>
 </div>
 </div>
-<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="contentBox" style="margin:0px auto; width:160%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Dry <br />
 <audio controls="controls">
@@ -46,8 +46,8 @@
 </audio>
 </div>
 </div>
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:150%;">
+<div id="contentBox" style="margin:0px auto; width:160%">
+<div id="column1" style="float:left; margin:0; width:160%;">
 - Anchor <br />
 <audio controls="controls">
     <source src="audio/050_phrase_afro_simple_slow_sticks_oh.mp3" type="audio/mp3" />
@@ -57,7 +57,7 @@
 
 &nbsp;
 ### Phrase - blues: simple slow brushes
-<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="contentBox" style="margin:0px auto; width:160%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Wet <br />
 <audio controls="controls">
@@ -77,7 +77,7 @@
 </audio>
 </div>
 </div>
-<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="contentBox" style="margin:0px auto; width:160%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Dry <br />
 <audio controls="controls">
@@ -97,8 +97,8 @@
 </audio>
 </div>
 </div>
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:150%;">
+<div id="contentBox" style="margin:0px auto; width:160%">
+<div id="column1" style="float:left; margin:0; width:160%;">
 - Anchor <br />
 <audio controls="controls">
     <source src="audio/066_phrase_shuffle-blues_simple_slow_brushes_oh.mp3" type="audio/mp3" />
@@ -108,7 +108,7 @@
 
 &nbsp;
 ### Phrase - reggae: simple slow sticks
-<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="contentBox" style="margin:0px auto; width:160%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Wet <br />
 <audio controls="controls">
@@ -128,7 +128,7 @@
 </audio>
 </div>
 </div>
-<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="contentBox" style="margin:0px auto; width:160%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Dry <br />
 <audio controls="controls">
@@ -148,8 +148,8 @@
 </audio>
 </div>
 </div>
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:150%;">
+<div id="contentBox" style="margin:0px auto; width:160%">
+<div id="column1" style="float:left; margin:0; width:160%;">
 - Anchor <br />
 <audio controls="controls">
     <source src="audio/078_phrase_reggae_simple_slow_sticks_oh.mp3" type="audio/mp3" />
@@ -159,7 +159,7 @@
 
 &nbsp;
 ### Phrase - oriental: simple slow sticks
-<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="contentBox" style="margin:0px auto; width:160%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Wet <br />
 <audio controls="controls">
@@ -179,7 +179,7 @@
 </audio>
 </div>
 </div>
-<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="contentBox" style="margin:0px auto; width:160%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Dry <br />
 <audio controls="controls">
@@ -199,8 +199,8 @@
 </audio>
 </div>
 </div>
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:150%;">
+<div id="contentBox" style="margin:0px auto; width:160%">
+<div id="column1" style="float:left; margin:0; width:160%;">
 - Anchor <br />
 <audio controls="controls">
     <source src="audio/109_phrase_oriental_simple_slow_sticks_oh.mp3" type="audio/mp3" />
@@ -210,7 +210,7 @@
 
 &nbsp;
 ### Phrase - salsa: complex medium sticks
-<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="contentBox" style="margin:0px auto; width:160%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Wet <br />
 <audio controls="controls">
@@ -230,7 +230,7 @@
 </audio>
 </div>
 </div>
-<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="contentBox" style="margin:0px auto; width:160%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Dry <br />
 <audio controls="controls">
@@ -250,8 +250,8 @@
 </audio>
 </div>
 </div>
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:150%;">
+<div id="contentBox" style="margin:0px auto; width:160%">
+<div id="column1" style="float:left; margin:0; width:160%;">
 - Anchor <br />
 <audio controls="controls">
     <source src="audio/083_phrase_salsa_complex_medium_sticks_oh.mp3" type="audio/mp3" />
@@ -261,7 +261,7 @@
 
 &nbsp;
 ### Phrase - waltz: complex slow brushes
-<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="contentBox" style="margin:0px auto; width:160%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Wet <br />
 <audio controls="controls">
@@ -281,7 +281,7 @@
 </audio>
 </div>
 </div>
-<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="contentBox" style="margin:0px auto; width:160%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Dry <br />
 <audio controls="controls">
@@ -301,8 +301,8 @@
 </audio>
 </div>
 </div>
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:150%;">
+<div id="contentBox" style="margin:0px auto; width:160%">
+<div id="column1" style="float:left; margin:0; width:160%;">
 - Anchor <br />
 <audio controls="controls">
     <source src="audio/090_phrase_waltz_complex_slow_brushes_oh.mp3" type="audio/mp3" />
@@ -312,7 +312,7 @@
 
 &nbsp;
 ### Accompaniment - celtic rock: brushes
-<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="contentBox" style="margin:0px auto; width:160%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Wet <br />
 <audio controls="controls">
@@ -332,7 +332,7 @@
 </audio>
 </div>
 </div>
-<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="contentBox" style="margin:0px auto; width:160%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Dry <br />
 <audio controls="controls">
@@ -352,8 +352,8 @@
 </audio>
 </div>
 </div>
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:150%;">
+<div id="contentBox" style="margin:0px auto; width:160%">
+<div id="column1" style="float:left; margin:0; width:160%;">
 - Anchor <br />
 <audio controls="controls">
     <source src="audio/114_minus-one_celtic-rock_brushes_oh.mp3" type="audio/mp3" />
@@ -363,7 +363,7 @@
 
 &nbsp;
 ### Accompaniment - rock: sticks
-<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="contentBox" style="margin:0px auto; width:160%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Wet <br />
 <audio controls="controls">
@@ -383,7 +383,7 @@
 </audio>
 </div>
 </div>
-<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="contentBox" style="margin:0px auto; width:160%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Dry <br />
 <audio controls="controls">
@@ -403,8 +403,8 @@
 </audio>
 </div>
 </div>
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:150%;">
+<div id="contentBox" style="margin:0px auto; width:160%">
+<div id="column1" style="float:left; margin:0; width:160%;">
 - Anchor <br />
 <audio controls="controls">
     <source src="audio/144_MIDI-minus-one_rock-113_sticks_oh.mp3" type="audio/mp3" />
@@ -414,7 +414,7 @@
 
 &nbsp;
 ### Solo - toms: mallets
-<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="contentBox" style="margin:0px auto; width:160%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Wet <br />
 <audio controls="controls">
@@ -434,7 +434,7 @@
 </audio>
 </div>
 </div>
-<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="contentBox" style="margin:0px auto; width:160%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - Reference Dry <br />
 <audio controls="controls">
@@ -454,8 +454,8 @@
 </audio>
 </div>
 </div>
-<div id="contentBox" style="margin:0px auto; width:150%">
-<div id="column1" style="float:left; margin:0; width:150%;">
+<div id="contentBox" style="margin:0px auto; width:160%">
+<div id="column1" style="float:left; margin:0; width:160%;">
 - Anchor <br />
 <audio controls="controls">
     <source src="audio/119_solo_toms_mallets_oh.mp3" type="audio/mp3" />
